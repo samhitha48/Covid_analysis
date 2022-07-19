@@ -12,7 +12,7 @@ Jehad Ali, Rehanullah Khan, Nasir Ahmad, Imran Maqsood.
 It can be concluded that the Random Forest achieves increased
 classification performance and yields results that are accurate and precise in the 
 cases of a large number of instances. These scenarios also cover the missing values
-problem in the datasets and thus besides accuracy, it also overcomes the overfitting problem generated due to missing values in the datasets. Therefore, for the
+problem in the datasets and thus besides accuracy, it also overcomes the overfitting problem generated due to missing values in the datasets. Therefore, for the
 classification problems, if one has to choose a classifier among the tree-based 
 classifiers set, it is recommended to use the Random Forest with confidence for a 
 variety of classification problems
